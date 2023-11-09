@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noodle", "Noodle\Noodle.csproj", "{4AB75977-5442-419C-B51D-687B24C32A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoodleDemo", "NoodleDemo\NoodleDemo.csproj", "{2CED59D8-B6C0-4F1F-B369-FF7E97C99628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB75977-5442-419C-B51D-687B24C32A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB75977-5442-419C-B51D-687B24C32A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB75977-5442-419C-B51D-687B24C32A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB75977-5442-419C-B51D-687B24C32A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CED59D8-B6C0-4F1F-B369-FF7E97C99628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CED59D8-B6C0-4F1F-B369-FF7E97C99628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CED59D8-B6C0-4F1F-B369-FF7E97C99628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CED59D8-B6C0-4F1F-B369-FF7E97C99628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C3C297-6E58-449A-8C56-63B6F18CD998}
+	EndGlobalSection
+EndGlobal
